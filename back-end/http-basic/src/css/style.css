@@ -1,0 +1,35 @@
+body {
+
+    background-color: rgb(37, 14, 58);
+
+}
+
+.container {
+
+    border-radius: 2%;
+    padding: 2%;
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-top: 10%;
+    background-color: rgb(115, 0, 160);
+
+}
+
+.title {
+
+    color: rgb(205, 255, 238);
+
+}
+
+.text {
+
+    color: whitesmoke;
+
+}
+
+.link {
+
+    text-decoration: none;
+    color: rgb(58, 243, 228);
+
+}
